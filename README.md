@@ -4,5 +4,4 @@ Watch directories for images and auto upload to discord chan using that chans we
 
 Replace the directories and webhook links with your own and then launch the script using the .bat file and .py file or by using the .exe file. 
 
-
-![Screenshot 2024-10-11 191551](https://github.com/user-attachments/assets/572b6dd8-b038-4f58-9a05-702c2e5e2005)
+![Screenshot 2024-10-11 191551](https://github.com/user-attachments/assets/7e84dadc-9b81-486a-8f34-c5e7f608311b)
